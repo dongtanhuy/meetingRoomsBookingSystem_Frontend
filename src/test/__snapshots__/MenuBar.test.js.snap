@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Menu Bar It should render menu bar 1`] = `
+Array [
+  <MenuAppBar
+    classes={
+      Object {
+        "root": "MenuAppBar-root-1",
+      }
+    }
+  />,
+]
+`;
